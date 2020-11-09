@@ -1,16 +1,12 @@
-### Hi there 👋
+# Welcome on my github profile
 
-<!--
-**yamaiYuzuru/yamaiYuzuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-------------------
+| Discord - Mythical Valley | Discord - Me |
+| :---: | :---: |
+| [![Discord](https://img.shields.io/discord/739755415268491308?color=darkblue&label=discord%20%5BMythical%20Valley%5D&logo=discord&logoColor=lightblue&style=for-the-badge)](https://discord.gg/A4erWMRs) | [!yuzuru](https://img.shields.io/badge/!yuzuru.%234112-Idle-yellow) |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on the [Nezo and NezoBot](https://discord.ly/nezo)
+- 🌱 I’m currently learning Java and JavaScript
+- 📫 How to reach me: You can reach me on my discord server Link on the top
+- ⚡ Fun fact: Nezo is written in javascript and NezoBot in java
+- 👌 Other Stuff about me: I'm from germany and learning 
