@@ -9,4 +9,4 @@
 - 🌱 I’m currently learning Java and JavaScript
 - 📫 How to reach me: You can reach me on my discord server Link on the top
 - ⚡ Fun fact: Nezo is written in javascript and NezoBot in java
-- 👌 Other Stuff about me: I'm from germany and learning 
+- 👌 Other Stuff about me: I'm from germany and learning Japanese from anime xd.
