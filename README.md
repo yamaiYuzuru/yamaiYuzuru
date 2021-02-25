@@ -12,3 +12,4 @@
 - 👌 Other Stuff about me: I'm from germany and learning Japanese xd.
 
 [![Yuzuru's github stats](https://github-readme-stats.vercel.app/api?username=yamaiYuzuru&theme=dark&show_icons=true&count_private=true)](https://github.com/yamaiYuzuru/yamaiYuzuru/)
+[![Yuzuru's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamaiYuzuru&layout=compact)](https://github.com/yamaiYuzuru/yamaiYuzuru)
