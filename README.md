@@ -3,7 +3,7 @@
 -------------------
 | Discord - WeebWorld | Discord - Me |
 | :---: | :---: |
-| [![Discord](https://img.shields.io/discord/814943952833871933?color=darkblue&label=discord&%2WeebWorld&logo=discord&logoColor=lightblue)](http://weebworld.yuzuru.ml) | ![!yuzuru](https://img.shields.io/badge/!yuzuru.%234112-Online-green) |
+| [![Discord](https://img.shields.io/discord/814943952833871933?color=darkblue&label=WeebWorld&logo=discord&logoColor=lightblue)](http://weebworld.yuzuru.ml) | ![!yuzuru](https://img.shields.io/badge/!yuzuru.%234112-Online-green) |
 
 - 🔭 I’m currently working on [Shiroko](http://invite.shiroko.ml)
 - 🌱 I’m currently learning Java and JavaScript
