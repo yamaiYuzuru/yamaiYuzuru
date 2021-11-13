@@ -1,11 +1,11 @@
 # Welcome on my github profile
 
 -------------------
-| Discord - WeebWorld | Discord - Me |
+| Discord - Genshin MC's Filiale | Discord - Me |
 | :---: | :---: |
-| [![Discord](https://img.shields.io/discord/814943952833871933?color=darkblue&label=WeebWorld&logo=discord&logoColor=lightblue)](http://weebworld.yuzuru.ml) | ![!yuzuru](https://img.shields.io/badge/!yuzuru.%234112-Online-green) |
+| [![Discord](https://img.shields.io/discord/800882800550084679?color=darkblue&label=Genshin%20Mc%27s%20Filiale&logo=discord&logoColor=white)](http://mcs-genshin.yuzuru.ml) | ![!yuzuru.](https://img.shields.io/badge/!yuzuru.%234112-Online-green) |
 
-- 🔭 I’m currently working on [Shiroko](http://invite.shiroko.ml)
+- 🔭 I’m currently working on [Shiroko](http://kirin-dev.ml/invite.php?b=shiroko)
 - 🌱 I’m currently learning Java and JavaScript
 - 📫 How to reach me: You can reach me on my discord server Link on the top
 - ⚡ Fun fact: Shiroko is written in javascript
