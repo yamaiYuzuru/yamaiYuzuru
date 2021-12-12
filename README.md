@@ -11,5 +11,5 @@
 - ⚡ Fun fact: Shiroko is written in javascript
 - 👌 Other Stuff about me: I'm from Germany and learning Japanese, because I will travel to Japan.
 
-<p align="center">[![Yuzuru's github stats](https://github-readme-stats.vercel.app/api?username=yamaiYuzuru&theme=dark&show_icons=true&count_private=true)](https://github.com/yamaiYuzuru/yamaiYuzuru/)</p>
+<p><a href="https://github.com/yamaiYuzuru/yamaiYuzuru/"><img src="https://github-readme-stats.vercel.app/api?username=yamaiYuzuru&theme=dark&show_icons=true&count_private=true" alt="My github stats"></a></p>
 [![Yuzuru's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamaiYuzuru&layout=compact)](https://github.com/yamaiYuzuru/yamaiYuzuru)
