@@ -6,7 +6,7 @@
 | [![Discord](https://img.shields.io/discord/800882800550084679?color=darkblue&label=Genshin%20Mc%27s%20Filiale&logo=discord&logoColor=white)](http://mcs-genshin.yuzuru.ml) | ![!yuzuru.](https://img.shields.io/badge/!yuzuru.%234112-Online-green) |
 
 - 🔭 I’m currently working on [Shiroko](http://kirin-dev.ml/invite.php?b=shiroko)
-- 🌱 I’m currently learning Java and JavaScript
+- 🌱 I’m currently learning TypeScript, JavaScript and Website coding (using HTML/CSS)
 - 📫 How to reach me: You can reach me on my discord server Link on the top
 - ⚡ Fun fact: Shiroko is written in javascript
 - 👌 Other Stuff about me: I'm from Germany and learning Japanese, because I will travel to Japan.
