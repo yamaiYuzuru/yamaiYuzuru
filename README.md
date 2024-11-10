@@ -1,6 +1,6 @@
 # 
 <div>
-<img src="./assets/icon.png" width="300" align="right">
+<img src="./assets/icon.png" width="250" align="right">
 <br>
 <br>
 <img src="./assets/yuzuru-aboutme.png" width="500">
