@@ -24,7 +24,7 @@
 Just this readme lol.
 - [**yamaiYuzuru/cosmicpal**](https://github.com/yamaiYuzuru/cosmicpal)<br>
 my multipurpose discord bot (under development, 5% ready...)
-- [**yamaiYuzuru/yukisara-website](https://yukisara.eu)<br>
+- [**yamaiYuzuru/yukisara-website**](https://yukisara.eu)<br>
 Website for my discord.
 <br>
 
