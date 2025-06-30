@@ -24,6 +24,8 @@
 Just this readme lol.
 - [**yamaiYuzuru/cosmicpal**](https://github.com/yamaiYuzuru/cosmicpal)<br>
 my multipurpose discord bot (under development, 5% ready...)
+- [**yamaiYuzuru/yukisara-website](https://yukisara.eu)<br>
+Website for my discord.
 <br>
 
 [![Discord Presence](https://lanyard.yuzuru.eu/api/428835662310146049)](https://discord.com/users/428835662310146049)
