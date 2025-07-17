@@ -8,10 +8,10 @@
 
 ✩ ᵕ̈ ིྀ yuzuru •˙ ? ⌗ ⊱<br>
 ⋅˚₊‧ ୨୧ ‧₊˚ ⋅ 21 years old ⋅˚₊‧ ୨୧ ‧₊˚ ⋅<br>
-⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Hobby Developer ⋅˚₊‧ ୨୧ ‧₊˚ ⋅<br>
+⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Hobby Developer ; Baker ⋅˚₊‧ ୨୧ ‧₊˚ ⋅<br>
 ⋅˚₊‧ ୨୧ ‧₊˚ ⋅ From Germany ⋅˚₊‧ ୨୧ ‧₊˚ ⋅<br>
 ⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Girls Love & Romance addicted (Anime/Manga)⋅˚₊‧ ୨୧ ‧₊˚ ⋅<br>
-⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Using **TypeScript**, **JavaScript** ⋅˚₊‧ ୨୧ ‧₊˚ ⋅<br>
+⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Using **TypeScript**, **JavaScript**, **Astro** ⋅˚₊‧ ୨୧ ‧₊˚ ⋅<br>
 ⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Familiar with: Windows, Linux (Debian, Kali) ⋅˚₊‧ ୨୧ ‧₊˚ ⋅<br>
 ⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Understand: German (Native), English (Good) ⋅˚₊‧ ୨୧ ‧₊˚ ⋅<br>
 <img src="./assets/yuzuru-side.png" width="300" align="right" />
@@ -34,4 +34,4 @@ Website for my discord.
 
 <sub>All rights of the images goes to their respective owner</sub><br>
 <sub>Thanks to [Misono Mika](https://github.com/misonomikadev) for the inspiration.</sub><br>
-<sub> thank you for reading. wanna join my discord (german)? [Crystal Spirits](https://discord.gg/crystalspirits).</sub>
+<sub> thank you for reading. wanna join my discord (german)? [Yukisara](https://yukisara.eu).</sub>
